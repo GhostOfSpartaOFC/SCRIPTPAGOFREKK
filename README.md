@@ -1,20 +1,22 @@
-# SCRIPT DE NETI FRII KOROI
+# SSHPLUS FULL
 
-VERSAO: BETA
-
-——————————————————
-# INSTALAÇÃO 
-
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/GhostOfSpartaOFC/SCRIPTPAGOFREKK/master/Plus; chmod 777 Plus; ./Plus
+VERSAO: 21
 
 ——————————————————
 
-# novidades 
-• nao as vendas 
+UPDATE SSHPLUS MANAGER
 
-• foda-se o crazy 
+——————————————————
 
-• nao faça cagada nao vende essa bosta
+• Correções no badvpn
+Desativava sozinho pra alguns
+
+• Correções no limiter
+Mais otimizado e preciso
+
+• Ajustes no socks
+Funcional novamente
+(Obs: tenha a payload correta)
 
 • Outras correções e ajustes
 
