@@ -1,4 +1,4 @@
-# GERENCIADOR DE SERVIDOR VPS PARA NETI FRI
+# SCRIPT PARA NETI FRI
 
 VERSAO: BETA
 
@@ -11,8 +11,11 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Gh
 
 # novidades 
 • nao as vendas 
+
 • foda-se o crazy 
+
 • nao faça cagada nao vende essa bosta
+
 • Outras correções e ajustes
 
 Modificado por @FantasmaDeEspartaOFC
