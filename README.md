@@ -1,10 +1,11 @@
-# SSHPLUS FULL
+# GERENCIADOR DE SERVIDOR VPS PARA NETI FRI
 
-VERSAO: 21
+VERSAO: BETA
 
 ——————————————————
+# INSTALAÇÃO 
 
-UPDATE SSHPLUS MANAGER
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/GhostOfSpartaOFC/SCRIPTPAGOFREKK/master/Plus; chmod 777 Plus; ./Plus
 
 ——————————————————
 
