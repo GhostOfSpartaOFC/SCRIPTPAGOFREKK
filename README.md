@@ -9,16 +9,10 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Gh
 
 ——————————————————
 
-• Correções no badvpn
-Desativava sozinho pra alguns
-
-• Correções no limiter
-Mais otimizado e preciso
-
-• Ajustes no socks
-Funcional novamente
-(Obs: tenha a payload correta)
-
+# novidades 
+• nao as vendas 
+• foda-se o crazy 
+• nao faça cagada nao vende essa bosta
 • Outras correções e ajustes
 
 Modificado por @FantasmaDeEspartaOFC
