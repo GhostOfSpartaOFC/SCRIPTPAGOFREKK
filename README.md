@@ -1,4 +1,6 @@
-# Powered By GhostOfSpartaOFC ![logo](https://github.com/GhostOfSpartaOFC/SCRIPTPAGOFREKK/blob/master/IMG.jpg)
+# GhostOfSpartaOFC
+
+ ![logo](https://github.com/GhostOfSpartaOFC/SCRIPTPAGOFREKK/blob/master/IMG.jpg)
  -------------------------------------------------------------------------------
  Script Gerente
 
