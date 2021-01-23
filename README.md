@@ -10,7 +10,7 @@
 
 Script Gerente
 
-## Requerimientos 
+## Requerimentos
 
 * Um sistema operacional baseado em Linux (Ubuntu ou Debian) 
 * Recomendamos Ubuntu 16.04 Server x86_64 
