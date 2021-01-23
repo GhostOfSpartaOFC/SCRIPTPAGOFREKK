@@ -1,4 +1,4 @@
-﻿# SSHPLUS MANAGER v01 (FREE) 
+﻿# Powered By GhostOfSpartaOFC
 
 
 ![logo](https://github.com/GhostOfSpartaOFC/SCRIPTPAGOFREKK/blob/master/IMG.jpg)
