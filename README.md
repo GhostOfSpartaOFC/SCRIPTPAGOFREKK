@@ -16,8 +16,8 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Gh
 
 
 # CANAIS TELEGRAM
- ☆ https://t.me/arquivos_on ☆ 
+☆ https://t.me/arquivos_on ☆ 
 ☆ https://t.me/arquivos_premium ☆   
 # GRUPOS TELEGRAM
- ☆ https://t.me/Internet_free_oficial ☆
- ☆ https://t.me/semprenetgratis ☆
+☆ https://t.me/Internet_free_oficial ☆
+☆ https://t.me/semprenetgratis ☆
